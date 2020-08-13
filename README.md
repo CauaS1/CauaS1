@@ -4,7 +4,7 @@ Welcome to my Profile! I'm Cauã from Brazil, I'm currently learning ReactNative
 ## 💫Technologies
 
 Front End: <strong>HTML, CSS, JAVASCRIPT, PYTHON, REACT.JS</strong> <br>
-Back End: <strong>Null</strong>
+Back End: <strong>NONE</strong>
 
 ## What I want to learn
 
