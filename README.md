@@ -1,8 +1,5 @@
-### What's up <i>< Coders /></i>!
-
+### What's up <i>< Coders /></i>! 👋
 Welcome to my Profile! I'm Cauã from Brazil, I'm currently learning ReactNative.
-
-<hr>
 
 ## 💫Technologies
 
