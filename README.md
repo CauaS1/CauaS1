@@ -9,5 +9,5 @@ Back End: <strong>NONE</strong>
 ## What I want to learn
 
 Front End: <strong> React Native </strong> <br>
-Back  End: <strnog> Node, SQLite</strong>
+Back  End: <strnog> Node, MySQL</strong>
 
