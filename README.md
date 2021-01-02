@@ -6,8 +6,8 @@ Welcome to my Profile! I'm Cauã from Brazil, I'm currently learning NodeJS, MyS
 Front End: <strong>HTML, CSS, JAVASCRIPT, PYTHON,</strong> <br>
 Back End: <strong>NONE</strong>
 
-## What I want to learn
+## What I'm learning
 
-Front End: <strong> React Native </strong> <br>
-Back  End: <strnog> Node, MySQL</strong>
+Front End: <strong> React.js & React Native </strong> <br>
+Back  End: <strnog> Node & MySQL</strong>
 
