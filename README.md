@@ -1,5 +1,6 @@
 ### What's up <i>< Coders /></i>! 👋
-Welcome to my Profile! I'm Cauã from Brazil, I'm currently learning NodeJS, MySQL and React Native.
+Welcome to my Profile! I'm Cauã from Brazil, I'm a guy that always try to learn something new <br>
+and put in practice what I learned.
 
 ## 💫Technologies
 
