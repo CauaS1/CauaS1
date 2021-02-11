@@ -9,6 +9,6 @@ Back End: <strong>NONE</strong>
 
 ## What I'm learning
 
-Front End: <strong> React.js & React Native </strong> <br>
-Back  End: <strnog> Node & MySQL</strong>
+Front End: <strong> Typescript & React.js/Native </strong> <br>
+Back  End: <strnog> Node.js & Postgress</strong>
 
