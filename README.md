@@ -10,5 +10,5 @@ Back End: <strong>NONE</strong>
 ## What I'm learning
 
 Front End: <strong> Typescript & React.js/Native </strong> <br>
-Back  End: <strnog> Node.js & Postgress</strong>
+Back  End: <strnog> Node.js, Postgress and TypeORM</strong>
 
