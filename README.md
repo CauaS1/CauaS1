@@ -3,8 +3,8 @@ Welcome to my Profile! I'm Cauã and currently I'm working on my projects to put
 
 ## 💫Technologies
 
-In the **Front-end** I have experience with html/css/js and currently I'm using React.js/Native with Typescript. <br>
-In the **Back-end** I have experience with Node.js, MySQL & Firebase most of my projects with React I used Firebase. <br> Currenly I'm learning and using Postgres with TypeORM
+**Front-end** I have experience with html/css/js and currently I'm using React.js/Native with Typescript. <br>
+**Back-end** I already know Node.js, MySQL & Firebase most of my projects with React I used Firebase and now <br> I'm currenly learning and using Postgres with TypeORM
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cauas1&count_private=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
 
